@@ -4,6 +4,7 @@ I'm documenting my daily ML learning through Jupyter notebooks.
 
 ## Contents
 - Day 1: Map, Filter, Reduce, and File Handling
+- Day 2: OOPs concepts in python(Basic syntax and understanding of concepts)
 
 ## How to View
 Click on any `.ipynb` file above to view it directly in GitHub.
